@@ -1,84 +1,135 @@
-<h1 align="center">
-Hi 👋, I'm Meet Finava
-</h1>
+<h1 align="center">Hi 👋, I'm Meet Finava</h1>
 
 <h3 align="center">
 AI / Machine Learning Engineer | Deep Learning | Generative AI
 </h3>
 
+<p align="center">
+Building intelligent systems with Machine Learning, Deep Learning and LLM technologies.
+</p>
+
 
 ## 🚀 About Me
 
 I am an Artificial Intelligence enthusiast focused on building 
-real-world AI applications using Machine Learning and Deep Learning.
+real-world AI applications and scalable machine learning systems.
 
-Currently exploring:
+My interests include:
 
-- 🤖 AI Agents
-- 🧠 Large Language Models
-- 👁️ Computer Vision
-- ⚡ Deep Learning Systems
-
-
-## 🛠 Tech Stack
-
-### Programming
-Python | JavaScript | SQL
-
-### AI/ML
-TensorFlow
-PyTorch
-Scikit-learn
-OpenCV
-
-### GenAI
-LangChain
-LangGraph
-RAG
-LLMs
+🤖 Artificial Intelligence  
+🧠 Deep Learning  
+👁️ Computer Vision  
+🔥 Generative AI & LLM Applications  
+⚡ AI Agents & Agentic Workflows  
 
 
-## 🔥 Featured Projects
+Currently learning and building:
+- Advanced Deep Learning architectures
+- Large Language Model applications
+- AI automation workflows
+- Production-ready ML systems
 
 
-🌱 Plant Disease Classification AI
+---
 
-Deep learning system for detecting plant diseases from images.
+## 🛠️ Tech Stack
+
+
+### Programming Languages
+
+🐍 Python  
+🟨 JavaScript  
+🗄️ SQL  
+
+
+### Machine Learning
+
+TensorFlow | PyTorch | Scikit-learn | OpenCV
+
+
+### Generative AI
+
+LangChain | LangGraph | RAG | LLM APIs
+
+
+### Backend & Deployment
+
+FastAPI | Docker | Git | Linux
+
+
+### Frontend
+
+React | React Native
+
+
+
+---
+
+# 🔥 Featured Projects
+
+
+## 🌱 Plant Disease Classification AI
+
+Deep Learning based plant disease detection system.
+
+Features:
+- Image classification
+- Disease prediction
+- Confidence score
+- Treatment recommendation
 
 Tech:
 TensorFlow | CNN | FastAPI | React
 
 
-🏍️ Helmet Detection System
 
-Real-time safety monitoring using:
+## 🏍️ Helmet Detection & Number Plate Recognition
 
-YOLOv8 + OCR + Computer Vision
+Real-time computer vision system for traffic safety.
 
-
-🤖 AI Document Assistant
-
-Chat with documents using:
-
-LLM + RAG + Vector Database
+Tech:
+YOLOv8 | OCR | OpenCV
 
 
+
+## 🤖 AI Document Assistant
+
+Chat with your documents using modern AI techniques.
+
+Tech:
+LLM | RAG | Vector Database | LangChain
+
+
+
+---
 
 ## 📊 GitHub Stats
 
-![Meet's GitHub stats](https://github-readme-stats.vercel.app/api?username=meetfinava&show_icons=true)
+
+![Meet's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeetFinava&show_icons=true)
 
 
-## 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=meetfinava)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeetFinava)
 
 
-## 📫 Connect With Me
+---
+
+## 🌐 Connect With Me
+
 
 LinkedIn:
-your-link
+https://www.linkedin.com/in/meet-finava-732417272/
 
-Email:
-your-email
--->
+
+X:
+https://x.com/MeetFinava
+
+
+GitHub:
+https://github.com/MeetFinava
+
+
+
+---
+
+⭐ Building AI systems that solve real-world problems.
